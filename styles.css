@@ -1,5 +1,6 @@
 .header {
     background-color: red;
+    padding: 20px;
 }
 
 h1 {
@@ -13,5 +14,14 @@ h1 {
     font-size: 20px;
     text-align: center;
        
+}
+
+.nav {
+    text-align: center;
+}
+
+.nav-bar {
+    background-color: darkgray;
+    padding: 10px;
 }
 
