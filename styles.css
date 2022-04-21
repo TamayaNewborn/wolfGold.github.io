@@ -1,4 +1,21 @@
-* {
+h1{
+    text-align: center;
+}
+
+.nav-bar {
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    height: 210px;
+    
+    display: inline;
+    
+  }
+
+
+/* {
     background: #C7C7C7;
     margin: 0px;
     font-family: Arial, sans-serif;
@@ -68,3 +85,4 @@
     color: white;
     background-color: #f4ebe9;
   }
+  */
