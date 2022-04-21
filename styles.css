@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+}
+
+.nav li {
+    display: inline;
+    margin: 30px;
+    margin-top: 80px;
+    font-size: 30px;
+       
+}
+
+ul{
+    display: flex;
+    text-align: center;
+}
